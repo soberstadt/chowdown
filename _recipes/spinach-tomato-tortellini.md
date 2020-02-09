@@ -7,6 +7,7 @@ tags: dinner
 
 ingredients:
   - 1 (16 ounce) package cheese tortellini
+  - 1 pack chicken sausage
   - 1 (14.5 ounce) can diced tomatoes with garlic and onion
   - 1 cup chopped fresh spinach
   - 1/2 teaspoon salt
@@ -19,6 +20,7 @@ ingredients:
   - 1/4 cup grated Parmesan cheese
 
 directions:
+  - Slice and cook chicken sausage in a non-stick pan until crispy.
   - Bring a large pot of water to a boil. Add the tortellini, and cook until tender, about 10 minutes.
   - While you get the tortellini going, combine the tomatoes, spinach, salt, pepper, basil and garlic in a large saucepan over medium heat. Cook and stir until the mixture begins to bubble.
   - In a medium bowl, whisk together the flour, milk and cream. Stir this mixture into the saucepan along with the Parmesan cheese. Heat through, then reduce heat to low, and simmer until thick, about 2 minutes.
