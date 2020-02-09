@@ -2,7 +2,7 @@
 title: Chowdown
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://soberstadt.github.io/chowdown/"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
@@ -20,4 +20,4 @@ collections:
   recipes:
     output: true
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+exclude: ["Gemfile", "Gemfile.lock", "Rakefile", "README.md"]
